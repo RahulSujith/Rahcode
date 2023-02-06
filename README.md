@@ -3,7 +3,7 @@
 ## MSc Digital Marketing and Data Science Student, Emlyon Business School
 Analytics Portfolio
 ## 1. [Marketing Campaign Analysis](https://github.com/RahulSujith/Rahcode/blob/main/%20RAHUL%20SUJITH%20Marketing%20Campaign%20Data%20Analysis.ipynb)
-This is my python bootcamp project regarding analysis of marketing campaign(. 
+This is my python bootcamp project regarding analysis of marketing campaign. 
 I cleaned the data and remove the missing values. I also removed the outliers to avoid getting wrong conslusion of analysis.
 I mentioned my findings  and analysis in the jupyter file.
 
