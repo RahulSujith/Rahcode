@@ -8,7 +8,7 @@ I cleaned the data and remove the missing values. I also removed the outliers to
 I mentioned my findings  and analysis in the jupyter file.
 
 ## 2. [T20 World Cup 2022 Analysis](https://github.com/RahulSujith/Rahcode/blob/main/T20%20World%20Cup%202022%20Analysis.ipynb)
-This is my personal project to analyse T20 World Cup 2022.
+This is my personal project in python done in jupyter notebook to analyse T20 World Cup 2022.
 ## T20 World Cup 2022 Analysis:
 As the ICC Men’s T20 world cup has just finished, it has generated a lot of data that we can use to summarize 
 the event and gain insights into the performance of teams and players. By analyzing data such as the number of 
