@@ -20,6 +20,9 @@ I am able to work plotly library and used pandas to explore the dataset.
 ## 3. [Google Merchandise Analysis using Google Data Studio.](https://github.com/RahulSujith/Rahcode/blob/main/RahulSujithGoogleDataStudioProject.pdf)
 As part of web analytics project, I analysed google merchandise store analysis using google data studio. 
 
-## 4. [PowerBI Dashboard for Sales Marketing Analysis](https://github.com/RahulSujith/Rahcode/blob/main/salesmarketingdata.pbix)
+## 4. [Created  dashboards using PowerBi and conducted analysis for Airbnb to identify good and bad practitioners.](https://github.com/RahulSujith/Rahcode/blob/main/salesmarketingdata.pbix)
+
+
+## 5. [PowerBI Dashboard for Sales Marketing Analysis](https://github.com/RahulSujith/Rahcode/blob/main/salesmarketingdata.pbix)
 I created Dashboard for visualizing and analyzing the sales data of a company.
 ![image](https://user-images.githubusercontent.com/80307235/219136354-f04e8d0f-1810-4811-9bd5-31151fd51836.png)
