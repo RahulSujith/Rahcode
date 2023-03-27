@@ -25,6 +25,13 @@ As part of web analytics project, I analysed google merchandise store analysis u
 ![image](https://github.com/RahulSujith/Rahcode/blob/main/page2.png)
 ![image](https://github.com/RahulSujith/Rahcode/blob/main/page3.png)
 
-## 5. [PowerBI Dashboard for Sales Marketing Analysis](https://github.com/RahulSujith/Rahcode/blob/main/salesmarketingdata.pbix)
+## 5. [Analysis using Looker Studio For V+ bikesharing company](https://github.com/RahulSujith/Rahcode/blob/main/DATA_Visualization_Looker.pdf)
+ V+ is a bikesharing company that has launched in early 2022. Conduced an analysis on Looker studio for their marketing team to gain customer insight and optimise their marketing budget.
+![image]((https://github.com/RahulSujith/Rahcode/blob/main/Data1.png))
+![image]((https://github.com/RahulSujith/Rahcode/blob/main/Data2.png))
+
+## 6. [PowerBI Dashboard for Sales Marketing Analysis](https://github.com/RahulSujith/Rahcode/blob/main/salesmarketingdata.pbix)
 I created Dashboard for visualizing and analyzing the sales data of a company.
 ![image](https://user-images.githubusercontent.com/80307235/219136354-f04e8d0f-1810-4811-9bd5-31151fd51836.png)
+
+
