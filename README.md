@@ -23,7 +23,6 @@ As part of web analytics project, I analysed google merchandise store analysis u
 ## 4. [Created  dashboards using PowerBi and conducted analysis for Airbnb to identify good and bad practitioners.](https://github.com/RahulSujith/Rahcode/blob/main/Data_Viz_Final%20Version%20(2).pbix)
 ![image](https://github.com/RahulSujith/Rahcode/blob/main/page1.png)
 ![image](https://github.com/RahulSujith/Rahcode/blob/main/page2.png)
-![image](https://github.com/RahulSujith/Rahcode/blob/main/page3.png)
 
 ## 5. [SQL -Python Data analysis](https://github.com/RahulSujith/Rahcode/blob/main/SQL%20-%20Python%20Project.ipynb)
 This is my data analysis projetc using python and SQL  regarding analysis of 2 datasets:
