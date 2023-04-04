@@ -1,4 +1,5 @@
-# Welcome to Rahul's Data analysis,Data Science and Visualisation projects. 
+# Welcome to Rahul's Data analysis,Data Science and Visualization projects. 
+
 # Rahul_Sujith_Personal_Project_Portfolio
 ## MSc Digital Marketing and Data Science Student, Emlyon Business School
 ### Analytics Portfolio(Click on the highlighted links to see my codes)
