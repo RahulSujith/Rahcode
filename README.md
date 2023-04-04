@@ -1,4 +1,4 @@
-# Rahcode
+# Welcome to Rahul's Data analysis,Data Science and Visualisation projects. 
 # Rahul_Sujith_Personal_Project_Portfolio
 ## MSc Digital Marketing and Data Science Student, Emlyon Business School
 Analytics Portfolio(Click on the highlighted links to see my codes)
@@ -17,22 +17,26 @@ to bat and bowl in, we can gain a deeper understanding of the tournament and ide
 during the event. 
 I am able to work plotly library and used pandas to explore the dataset.
 
-## 3. [Google Merchandise Analysis using Google Data Studio.](https://github.com/RahulSujith/Rahcode/blob/main/RahulSujithGoogleDataStudioProject.pdf)
-As part of web analytics project, I analysed google merchandise store analysis using google data studio. 
-
-## 4. [Created  dashboards using PowerBi and conducted analysis for Airbnb to identify good and bad practitioners.](https://github.com/RahulSujith/Rahcode/blob/main/Data_Viz_Final%20Version%20(2).pbix)
+## 3. [Created  dashboards using PowerBi and conducted analysis for Airbnb to identify good and bad practitioners.](https://github.com/RahulSujith/Rahcode/blob/main/Data_Viz_Final%20Version%20(2).pbix)
 ![image](https://github.com/RahulSujith/Rahcode/blob/main/page1.png)
 ![image](https://github.com/RahulSujith/Rahcode/blob/main/page2.png)
 
-## 5. [SQL -Python Data analysis](https://github.com/RahulSujith/Rahcode/blob/main/SQL%20-%20Python%20Project.ipynb)
+## 4. [Analysis using Looker Studio For V+ bikesharing company](https://github.com/RahulSujith/Rahcode/blob/main/DATA_Visualization_Looker.pdf)
+ V+ is a bikesharing company that has launched in early 2022. Conduced an analysis on Looker studio for their marketing team to gain customer insight and optimise their marketing budget.
+![image](https://github.com/RahulSujith/Rahcode/blob/main/Data1.png)
+![image](https://github.com/RahulSujith/Rahcode/blob/main/Data2.png)
+
+## 5. [Google Merchandise Analysis using Google Data Studio.](https://github.com/RahulSujith/Rahcode/blob/main/RahulSujithGoogleDataStudioProject.pdf)
+As part of web analytics project, I analysed google merchandise store analysis using google data studio. 
+
+
+
+## 6. [SQL -Python Data analysis](https://github.com/RahulSujith/Rahcode/blob/main/SQL%20-%20Python%20Project.ipynb)
 This is my data analysis projetc using python and SQL  regarding analysis of 2 datasets:
 1.dataset related to f1 racing.
 2.dataset related to dogbreeds.
 
-## 6. [Analysis using Looker Studio For V+ bikesharing company](https://github.com/RahulSujith/Rahcode/blob/main/DATA_Visualization_Looker.pdf)
- V+ is a bikesharing company that has launched in early 2022. Conduced an analysis on Looker studio for their marketing team to gain customer insight and optimise their marketing budget.
-![image](https://github.com/RahulSujith/Rahcode/blob/main/Data1.png)
-![image](https://github.com/RahulSujith/Rahcode/blob/main/Data2.png)
+
 
 ## 7. [PowerBI Dashboard for Sales Marketing Analysis](https://github.com/RahulSujith/Rahcode/blob/main/salesmarketingdata.pbix)
 I created Dashboard for visualizing and analyzing the sales data of a company.
