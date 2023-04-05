@@ -1,0 +1,14 @@
+name: MentalHealthDashboard
+title: MentalHealthDashboard
+username:
+account: rahulsujith
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8743962
+bundleId: 7047936
+url: https://rahulsujith.shinyapps.io/MentalHealthDashboard/
+when: 1680615905.77099
+lastSyncTime: 1680615905.77106
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: DashboardReport.html

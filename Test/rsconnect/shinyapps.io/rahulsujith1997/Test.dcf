@@ -1,0 +1,14 @@
+name: Test
+title: Test
+username:
+account: rahulsujith1997
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8762022
+bundleId: 7048304
+url: https://rahulsujith1997.shinyapps.io/Test/
+when: 1680619771.15192
+lastSyncTime: 1680619771.15196
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: DashboardReport.html
