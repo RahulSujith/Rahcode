@@ -9,6 +9,7 @@ I cleaned the data and remove the missing values. I also removed the outliers to
 I mentioned my findings  and analysis in the jupyter file.
 
 ## 2. [Created  dashboards using PowerBi and conducted analysis for Airbnb to identify good and bad practitioners.](https://github.com/RahulSujith/Rahcode/blob/main/Data_Viz_Final%20Version%20(2).pbix)
+In this data viz challenge I need to clean and analyse the airbnb dataset using powerBI. I created a data story by analysing the ratings and type of cities in which the apartments are located. Also I found the aprtments who have blank rating  and identified good and bad practitioners and provided recommendations to improve the marketing strategy of AirBnb.
 ![image](https://github.com/RahulSujith/Rahcode/blob/main/page1.png)
 ![image](https://github.com/RahulSujith/Rahcode/blob/main/page2.png)
 
