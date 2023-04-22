@@ -23,8 +23,8 @@ to bat and bowl in, we can gain a deeper understanding of the tournament and ide
 during the event. 
 I am able to work plotly library and used pandas to explore the dataset.
 
-## 4. [SQL Project to Analyse IMDB Dataset](https://github.com/RahulSujith/Rahcode/blob/main/SQL%20Project.pdf)
-In this SQL project I explored and analysed IMDB dataset to gain insights and draw conclusions regarding the data.
+## 4. [BigQuery-SQL Project to Analyse IMDB Dataset](https://github.com/RahulSujith/Rahcode/blob/main/SQL%20Project.pdf)
+In this SQL project I explored and analysed IMDB dataset using BIgQuery to gain insights and draw conclusions regarding the data.
 
 ## 5. [Analysis using Looker Studio For V+ bikesharing company](https://github.com/RahulSujith/Rahcode/blob/main/DATA_Visualization_Looker.pdf)
  V+ is a bikesharing company that has launched in early 2022. Conduced an analysis on Looker studio for their marketing team to gain customer insight and optimise their marketing budget.
