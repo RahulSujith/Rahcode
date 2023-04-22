@@ -23,8 +23,7 @@ to bat and bowl in, we can gain a deeper understanding of the tournament and ide
 during the event. 
 I am able to work plotly library and used pandas to explore the dataset.
 
-## 4. [SQL Project to Analyse IMDB Dataset]
-(https://github.com/RahulSujith/Rahcode/blob/main/SQL%20Project.pdf)
+## 4. [SQL Project to Analyse IMDB Dataset](https://github.com/RahulSujith/Rahcode/blob/main/SQL%20Project.pdf)
 In this SQL project I explored and analysed IMDB dataset to gain insights and draw conclusions regarding the data.
 
 ## 5. [Analysis using Looker Studio For V+ bikesharing company](https://github.com/RahulSujith/Rahcode/blob/main/DATA_Visualization_Looker.pdf)
