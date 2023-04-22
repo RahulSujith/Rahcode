@@ -23,29 +23,31 @@ to bat and bowl in, we can gain a deeper understanding of the tournament and ide
 during the event. 
 I am able to work plotly library and used pandas to explore the dataset.
 
+## 4. [SQL Project to Analyse IMDB Dataset]
+(https://github.com/RahulSujith/Rahcode/blob/main/SQL%20Project.pdf)
+In this SQL project I explored and analysed IMDB dataset to gain insights and draw conclusions regarding the data.
 
-
-## 4. [Analysis using Looker Studio For V+ bikesharing company](https://github.com/RahulSujith/Rahcode/blob/main/DATA_Visualization_Looker.pdf)
+## 5. [Analysis using Looker Studio For V+ bikesharing company](https://github.com/RahulSujith/Rahcode/blob/main/DATA_Visualization_Looker.pdf)
  V+ is a bikesharing company that has launched in early 2022. Conduced an analysis on Looker studio for their marketing team to gain customer insight and optimise their marketing budget.
 ![image](https://github.com/RahulSujith/Rahcode/blob/main/Data1.png)
 ![image](https://github.com/RahulSujith/Rahcode/blob/main/Data2.png)
 
-## 5. [SQL -Python Data analysis](https://github.com/RahulSujith/Rahcode/blob/main/SQL%20-%20Python%20Project.ipynb)
+## 6. [SQL -Python Data analysis](https://github.com/RahulSujith/Rahcode/blob/main/SQL%20-%20Python%20Project.ipynb)
 This is my data analysis projetc using python and SQL  regarding analysis of 2 datasets:
 1.dataset related to f1 racing.
 2.dataset related to dogbreeds.
 
 
-## 6. [Google Merchandise Analysis using Google Data Studio.](https://github.com/RahulSujith/Rahcode/blob/main/RahulSujithGoogleDataStudioProject.pdf)
+## 7. [Google Merchandise Analysis using Google Data Studio.](https://github.com/RahulSujith/Rahcode/blob/main/RahulSujithGoogleDataStudioProject.pdf)
 As part of web analytics project, I analysed google merchandise store analysis using google data studio. 
 
 
-## 7. [Rshiny Dashboard for Mental Health in Workplace Analysis](https://rahulsujith1997.shinyapps.io/Test/)
+## 8. [Rshiny Dashboard for Mental Health in Workplace Analysis](https://rahulsujith1997.shinyapps.io/Test/)
 I created Dashboard for visualizing and analyzing the Mental Health of employees in Workplace on Rshiny using R Programming language and Css . 
 ![image](https://github.com/RahulSujith/Rahcode/blob/main/1st%20page%20home%20page1%20.png)
 ![image](https://github.com/RahulSujith/Rahcode/blob/main/visualizations.png))
 
-## 8. [PowerBI Dashboard for Sales Marketing Analysis](https://github.com/RahulSujith/Rahcode/blob/main/salesmarketingdata.pbix)
+## 9. [PowerBI Dashboard for Sales Marketing Analysis](https://github.com/RahulSujith/Rahcode/blob/main/salesmarketingdata.pbix)
 I created Dashboard for visualizing and analyzing the sales data of a company.
 ![image](https://user-images.githubusercontent.com/80307235/219136354-f04e8d0f-1810-4811-9bd5-31151fd51836.png)
 
