@@ -1,7 +1,7 @@
 # Welcome to Rahul's Data analysis,Data Science and Visualization projects. 
 
 # Rahul_Sujith_Personal_Project_Portfolio
-## MSc Digital Marketing and Data Science Student, Emlyon Business School
+## MSc Digital Marketing and Data Science , Emlyon Business School
 ### Analytics Portfolio(Click on the highlighted links to see my codes)
 ## 1. [Marketing Campaign Analysis](https://github.com/RahulSujith/Rahcode/blob/main/%20RAHUL%20SUJITH%20Marketing%20Campaign%20Data%20Analysis.ipynb)
 This is my python bootcamp project regarding analysis of marketing campaign. 
