@@ -50,4 +50,80 @@ I created Dashboard for visualizing and analyzing the Mental Health of employees
 I created Dashboard for visualizing and analyzing the sales data of a company.
 ![image](https://user-images.githubusercontent.com/80307235/219136354-f04e8d0f-1810-4811-9bd5-31151fd51836.png)
 
+## 10 . [A/B TESTING OF MARKETING CAMPAIGN USING PYTHON](https://github.com/RahulSujith/Rahcode/blob/main/AB_Testing_Project%20.ipynb)
+I am working to understand the results of an A/B test run by an e-commerce website. So we are analysing the Kaggle Dataset (https://statso.io/a-b-testing-case-study/ ). Please fine my finding and explanations regarding the campiagn analysis.
+
+Solution
+
+pandas: Used for data manipulation.
+
+datetime: Handles date-related operations.
+
+plotly.graph_objects and plotly.express: Used for creating interactive visualizations.
+
+plotly.io: Configures visualization settings.
+
+Data Loading:
+
+Two CSV files (control_group.csv and test_group.csv) containing campaign data are loaded into Pandas DataFrames.
+
+Data Cleaning:
+
+Columns in both datasets are renamed for clarity.
+
+Missing values in the control data are filled with mean values for respective columns.
+
+Data Merging:
+
+Control and test datasets are merged based on the date.
+
+B. Data Analysis
+
+Campaign Strategy Analysis:
+
+Number of Impressions vs. Amount Spent:
+
+Scatter plot visualizes the relationship between impressions and amount spent, showing that control campaign impressions are more than test campaign impressions.
+
+Add to Cart Analysis:
+
+Bar graph indicates that the control campaign has more "Added to Cart" actions than the test campaign.
+
+Search Analysis:
+
+Horizontal bar graph shows that users searched more due to the Test Campaign than the Control Campaign.
+
+Purchase Analysis:
+
+Pie chart compares purchases made by the control and test campaigns, indicating a slight increase in purchases for the control campaign.
+
+Website Clicks vs. Content Viewed:
+
+Scatter plot illustrates that website clicks are higher in the test campaign, but engagement is higher in the control campaign.
+
+Content Viewed vs. Add to Cart:
+
+Scatter plot reveals that more people viewed content and added products in the control campaign.
+
+Add to Cart vs. Purchases:
+
+Scatter plot suggests that the conversion rate of the test campaign is higher than the control campaign.
+
+3. Conclusion
+
+Summary:
+
+The control campaign has a higher conversion rate, more sales, and engagement from visitors.
+
+The test campaign is effective in showcasing products and generating clicks.
+
+Recommendation:
+
+Suggests using the control campaign for multiple products and audiences.
+
+Recommends the test campaign for marketing single products to a specific audience.
+
+
+
+
 
