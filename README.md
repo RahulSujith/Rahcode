@@ -134,5 +134,61 @@ Throughout this project I delved into the realm of data using Pythons libraries 
 
 Through the Spotify Data Analysis Project I not sharpened my skills but also gained a deep understanding of how data intertwines, with the world of music. This journey provided insights. Equipped me with confidence to undertake similar projects in the future.
 
+## 12 . [French Housing Insurance - Optimizing Pricing Strategies through Advanced Data Engineering and Analytics ]https://github.com/RahulSujith/Rahcode/blob/main/Rahul%20Sujith%20Luko%20-%20Case%20Study%20Pricing%20Data%20Engineer.ipynb)
 
+In the project with , I worked as a Data Engineer to optimize pricing strategies through advanced data engineering and analytics. for an innovative insurance technology company, aimed to refine their pricing models to better reflect market trends and customer behavior, ultimately enhancing their competitive edge and customer satisfaction.
+
+Objective: The primary objective was to develop a robust data pipeline and analytical framework that could process vast amounts of pricing data, derive actionable insights, and enable data-driven decision-making for pricing strategies.
+
+Responsibilities and Contributions:
+
+Data Extraction and Integration:
+
+Utilized various data sources including transactional databases, market data APIs, and customer interaction logs.
+
+Implemented data extraction processes using SQL and Python to gather relevant data required for pricing analysis.
+
+Integrated data from multiple sources into a centralized data warehouse using Apache Airflow for orchestration and automation.
+
+Data Pipeline Development:
+
+Designed and developed scalable data pipelines to process and transform raw data into structured formats.
+
+Employed ETL (Extract, Transform, Load) processes to ensure data quality and integrity.
+
+Automated data ingestion and processing workflows to maintain up-to-date data availability.
+
+Data Modeling and Storage:
+
+Developed data models to organize and store pricing data efficiently.
+
+Used data warehousing solutions to manage large volumes of data, ensuring quick retrieval and analysis.
+
+Implemented indexing and partitioning strategies to optimize query performance.
+
+Advanced Analytics and Machine Learning:
+
+Applied machine learning algorithms to analyze historical pricing data and identify patterns.
+
+Engineered features to enhance the predictive power of pricing models.
+
+Developed predictive models to forecast pricing trends and customer demand using Python libraries such as scikit-learn and TensorFlow.
+
+Data Visualization and Reporting:
+
+Created interactive dashboards and reports using Power BI to visualize key pricing metrics and trends.
+
+Developed custom visualizations to represent complex data insights in an easily interpretable format for stakeholders.
+
+Automated the generation and distribution of reports to ensure stakeholders had access to the latest data insights.
+
+Risk Management and Insights:
+
+Conducted risk analysis to identify potential pricing risks and mitigate them proactively.
+
+Provided actionable insights and recommendations based on data analysis to optimize pricing strategies.
+
+Collaborated with the Pricing and Strategy teams to align data insights with business objectives.
+
+Outcome: The project successfully delivered a comprehensive data engineering solution that enhanced comapnys ability to make data-driven pricing decisions. The implemented models and dashboards provided valuable insights, leading to more accurate pricing, increased customer satisfaction, and improved market competitiveness..
 
