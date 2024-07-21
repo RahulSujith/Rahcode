@@ -134,7 +134,7 @@ Throughout this project I delved into the realm of data using Pythons libraries 
 
 Through the Spotify Data Analysis Project I not sharpened my skills but also gained a deep understanding of how data intertwines, with the world of music. This journey provided insights. Equipped me with confidence to undertake similar projects in the future.
 
-## 12 . [French Housing Insurance - Optimizing Pricing Strategies through Advanced Data Engineering and Analytics ]https://github.com/RahulSujith/Rahcode/blob/main/Rahul%20Sujith%20Luko%20-%20Case%20Study%20Pricing%20Data%20Engineer.ipynb)
+## 12 . [French Housing Insurance - Optimizing Pricing Strategies through Advanced Data Engineering and Analytics ](https://github.com/RahulSujith/Rahcode/blob/main/Rahul%20Sujith%20Luko%20-%20Case%20Study%20Pricing%20Data%20Engineer.ipynb)
 
 In the project with , I worked as a Data Engineer to optimize pricing strategies through advanced data engineering and analytics. for an innovative insurance technology company, aimed to refine their pricing models to better reflect market trends and customer behavior, ultimately enhancing their competitive edge and customer satisfaction.
 
