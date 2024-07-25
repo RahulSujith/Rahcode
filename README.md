@@ -50,7 +50,7 @@ I created Dashboard for visualizing and analyzing the Mental Health of employees
 I created Dashboard for visualizing and analyzing the sales data of a company.
 ![image](https://user-images.githubusercontent.com/80307235/219136354-f04e8d0f-1810-4811-9bd5-31151fd51836.png)
 
-## 10 . [A/B TESTING OF MARKETING CAMPAIGN USING PYTHON](https://github.com/RahulSujith/Rahcode/blob/main/AB_Testing_Project%20.ipynb)
+## 10 . [A/B TESTING OF MARKETING CAMPAIGN USING PYTHON](https://github.com/RahulSujith/Rahcode/blob/main/AB_Testing_Project%20%20-Rahul%20Sujith.ipynb)
 I am working to understand the results of an A/B test run by an e-commerce website. So we are analysing the Kaggle Dataset (https://statso.io/a-b-testing-case-study/ ). Please fine my finding and explanations regarding the campiagn analysis.
 
 Solution
